@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/folder_page_white.png</file>
+        <file>icons/pause-16.ico</file>
+        <file>icons/Step Forward Normal Red.png</file>
+        <file>icons/stop1normalred.png</file>
+    </qresource>
+</RCC>
